@@ -9,7 +9,7 @@ The project is a comprehensive analysis of 5794 bikers. The total trip duration 
 Data Collection and Preparation
 
 The data for the analysis was collected from a reputable source Citibikenyc, and processed to ensure accuracy. The data include these variables:
-1.	BikeId
+1.	Bike's Id
 2.	Trip duration
 3.	Start Time
 4.	Stop Time
